@@ -1,4 +1,4 @@
 # ProyectoNieves-01-P2
 
 # Diagrama UML:
-![Diagrama]()
+![Diagrama](img/DiagramaUML.png)
