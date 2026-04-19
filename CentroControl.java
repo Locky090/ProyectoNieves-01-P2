@@ -12,7 +12,7 @@ public class CentroControl {
     }
     public void monitorearFlota(){
         for(Vehiculo i : vehiculos ){
-            i.patronMovimiento();
+            System.out.println(i.patronMovimiento());
 
             if (i instanceof IConectable) {
                 ((IConectable) i).sincronizarGPS();
