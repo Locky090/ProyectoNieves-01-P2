@@ -4,7 +4,6 @@ package ProyectoNieves;
 
      public CamionAutonomo(String id) {
          super(id);
-         System.out.println("Vehiculo: Camión Autónomo");
      }
 
      @Override
