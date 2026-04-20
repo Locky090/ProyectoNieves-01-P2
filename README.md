@@ -6,4 +6,4 @@ Integrantes:
 - Lucas Monges
 
 # Diagrama UML:
-![Diagrama](resources/DiagramaUML.png)
+![uml](resources/DiagramaUML.png)
