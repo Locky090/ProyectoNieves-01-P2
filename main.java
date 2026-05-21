@@ -1,4 +1,4 @@
-public class MiPrograma {
+public class main {
     public static void main(String[] args) {
 
         CentroControl centro = new CentroControl();
